@@ -12,9 +12,7 @@
 
 # Descrição
 
- Descrição:
-
-Descrição: O aplicativo Mata Mosquito é uma plataforma de jogo com fins educacionais que tem como objetivo ensinar crianças e jovens sobre prevenção e controle de doenças transmitidas por mosquitos, como a dengue, zika e chikungunya. Com uma interface intuitiva e dinâmica, o aplicativo oferece uma experiência de jogo divertida e educativa para seus usuários.
+O aplicativo Mata Mosquito é uma plataforma de jogo com fins educacionais que tem como objetivo ensinar crianças e jovens sobre prevenção e controle de doenças transmitidas por mosquitos, como a dengue, zika e chikungunya. Com uma interface intuitiva e dinâmica, o aplicativo oferece uma experiência de jogo divertida e educativa para seus usuários.
 
 Ao adquirir o aplicativo Mata Mosquito, o usuário terá acesso a diversas funcionalidades que ajudam a aumentar a conscientização sobre as doenças transmitidas por mosquitos e ensinar medidas de prevenção e controle. Não perca a oportunidade de adquirir o Mata Mosquito e ter acesso a um jogo educativo completo e de qualidade. Confira algumas das principais funcionalidades:
 
